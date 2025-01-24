@@ -19,7 +19,7 @@ get_recommends("The Queen of the Damned (Vampire Chronicles (Paperback))")
 ```
 
 This would output a list of similar books with their similarity scores:
-
+```bash
 [
   'The Queen of the Damned (Vampire Chronicles (Paperback))',
   [
@@ -30,6 +30,7 @@ This would output a list of similar books with their similarity scores:
     ['The Vampire Lestat (Vampire Chronicles, Book II)', 0.5178412199020386]
   ]
 ]
+```
 
 ## Requirements
 
