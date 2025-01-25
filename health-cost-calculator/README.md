@@ -25,7 +25,7 @@ You can download the dataset from [this link](https://cdn.freecodecamp.org/proje
 ## Model & Approach
 
 - **Data Preprocessing**: Clean and preprocess the dataset, handling missing values, encoding categorical variables, and scaling the data as needed.
-- **Model Building**: Train a regression model using the `train_dataset
+- **Model Building**: Train a regression model using the train_dataset.
 - **Evaluation**: Use **Mean Absolute Error (MAE)** to evaluate the model's performance. The model should achieve an MAE under **3500** to pass the challenge.
 - **Testing**: The final cell in the notebook uses the `test_dataset` to check the model's performance on unseen data and graph the predicted vs. actual healthcare costs.
 
