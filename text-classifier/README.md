@@ -41,14 +41,16 @@ The model was evaluated using the test dataset (valid-data.tsv), and its perform
    pip install -r requirements.txt
 ```
 
-## Conclusion
+## Acknowledgments
 
-This project demonstrates how to apply machine learning, specifically a neural network, to classify SMS messages as spam or not-spam. It provides a function that enables real-time prediction of message classification.
+This project uses the **SMS Spam Collection dataset** from **freeCodeCamp**, as well as libraries such as **Keras**, **Scikit-learn**, and **TensorFlow**.
 
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository or open an issue for improvements or suggestions. Potential improvements could include fine-tuning the model, using different feature extraction techniques, or integrating additional evaluation metrics. 
 
-## Acknowledgments
+## Conclusion
 
-This project uses the **SMS Spam Collection dataset** from **freeCodeCamp**, as well as libraries such as **Keras**, **Scikit-learn**, and **TensorFlow**.
+This project demonstrates how to apply machine learning, specifically a neural network, to classify SMS messages as spam or not-spam. It provides a function that enables real-time prediction of message classification.
+
+
