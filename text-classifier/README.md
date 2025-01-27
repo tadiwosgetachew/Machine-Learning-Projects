@@ -33,6 +33,14 @@ The dataset can be downloaded from the following links:
 
 The model was evaluated using the test dataset (valid-data.tsv), and its performance was measured using accuracy, which was found to be 98.5%, showcasing its effectiveness in classifying SMS messages as either "ham" or "spam". 
 
+## Project Structure
+```bash
+text-classifier/
+│
+├── sms-text-classification.ipynb  # Jupyter Notebook with the implementation
+├── requirements.txt              # List of dependencies for the project
+├── sms-text-classifier-model.pkl  # Trained model saved as a PKL file
+```
 ## Getting Started
 
 1. Clone this repository to your local machine.
@@ -40,6 +48,7 @@ The model was evaluated using the test dataset (valid-data.tsv), and its perform
 ```bash
    pip install -r requirements.txt
 ```
+
 
 ## Acknowledgments
 
